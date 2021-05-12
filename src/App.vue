@@ -2,6 +2,7 @@
   <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
+    <button class="btn btn-outline">neutral</button>
   </div>
   <router-view />
 </template>
